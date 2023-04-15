@@ -1,6 +1,6 @@
 # NftSpot
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5. This is a website dedicated to everything NFTs. My main goal with this project is to practice my Angular skills, and attempt to have extremely performant core web vitals. I realize that Angular likely isn't the best framework for this project. If I was choosing the best framework for what I was trying to create here, it would likely be next.js, so I would have an easy time with SEO. However, as I said, I am trying to increase my Angular knowledge, so I'm not too concerned with having the best version of "NFT Spot" on this run.
 
 ## Development server
 
