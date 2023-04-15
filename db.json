@@ -1,0 +1,40 @@
+{
+  "NFTs": [
+    {
+      "id": 1,
+      "name": "test-nft-1",
+      "image_path": "test-img-path-1",
+      "description": "description for test-nft-1"
+    },
+    {
+      "id": 2,
+      "name": "test-nft-2",
+      "image_path": "test-img-path-2",
+      "description": "description for test-nft-2"
+    },
+    {
+      "id": 3,
+      "name": "test-nft-3",
+      "image_path": "test-img-path-3",
+      "description": "description for test-nft-3"
+    },
+    {
+      "id": 4,
+      "name": "test-nft-4",
+      "image_path": "test-img-path-4",
+      "description": "description for test-nft-4"
+    },
+    {
+      "id": 5,
+      "name": "test-nft-5",
+      "image_path": "test-img-path-5",
+      "description": "description for test-nft-5"
+    },
+    {
+      "id": 6,
+      "name": "test-nft-6",
+      "image_path": "test-img-path-6",
+      "description": "description for test-nft-6"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+* A lot of the tech websites I'm looking at use a main page scheme with 3 columns.
+  - Wired has a leftcolumn with today's picks with larger sized articles, a middle
+    column with the very biggest articles (in size and relevance), and a right column 
+    with "most recent", these are the smallest
+  - Techcrunch also has 3 columns, but one is the sidebar
+* I like the idea of a "Today's picks" on the main page of NFTSpot
+* Need to figure out what kind of links I want in the header
+* Looks like I can implement SSR for SEO at any point using the Angular Universal library

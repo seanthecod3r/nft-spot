@@ -1,0 +1,31 @@
+.search-bar {
+  position: relative;
+  flex: 1;
+}
+
+.search-bar-icon {
+  padding-right: 5px;
+}
+
+.search-bar input[type="text"] {
+  width: 200px;
+  height: 30px;
+  padding: 5px 30px 5px 10px;
+  border: none;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  transition: width 0.2s ease-in-out;
+}
+
+.search-bar input[type="text"]:focus {
+  width: 250px;
+}
+
+.search-bar i.fa {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: #333;
+  font-size: 16px;
+}
