@@ -1,0 +1,41 @@
+/* Set up the basic style for the image and caption */
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: opacity 0.3s ease-in-out;
+  margin: 0;
+}
+
+.caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: black;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  pointer-events: none; /* add this line to make the caption not block mouse events */
+}
+
+.caption-title {
+  font-size: 24px;
+  margin: 0;
+  padding: 1rem;
+  pointer-events: auto; /* add this line to make the title able to block mouse events */
+}
+
+/* On hover, fade out the image and display the caption */
+.image-container:hover .image {
+  opacity: 0.2;
+}
+
+.image-container:hover .caption {
+  opacity: 1;
+}

@@ -6,3 +6,8 @@
 * I like the idea of a "Today's picks" on the main page of NFTSpot
 * Need to figure out what kind of links I want in the header
 * Looks like I can implement SSR for SEO at any point using the Angular Universal library
+
+4/17
+*Left side of page will be NFTs of the week.
+*Website will be in 3 sections. Left will be NFTs of the week, middle will be articles, and the right
+ will be either random NFTs or something like that. Possibly have a promoted work section?

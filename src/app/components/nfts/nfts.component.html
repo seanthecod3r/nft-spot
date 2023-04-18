@@ -1,0 +1,9 @@
+<div class="container">
+  <div class="nft-container">
+    <div class="row no-gutters">
+      <div *ngFor="let nft of nfts" class="col-md-6">
+        <app-nft-item [nft]="nft"></app-nft-item>
+      </div>
+    </div>
+  </div>
+</div>
