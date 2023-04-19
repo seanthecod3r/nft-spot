@@ -17,6 +17,7 @@ import { SearchResultsPageComponent } from './components/search-results-page/sea
 import { NftsComponent } from './components/nfts/nfts.component';
 import { NftItemComponent } from './components/nft-item/nft-item.component';
 import { HomepageContentComponent } from './components/homepage-content/homepage-content.component';
+import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { HomepageContentComponent } from './components/homepage-content/homepage
     NftsComponent,
     NftItemComponent,
     HomepageContentComponent,
+    NavBarComponent,
   ],
   imports: [
     BrowserModule,
