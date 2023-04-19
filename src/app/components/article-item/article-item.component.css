@@ -1,0 +1,30 @@
+h1 {
+  color: black;
+  font-family: "Open Sans";
+  font-weight: bold;
+}
+
+.small-items-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+  justify-content: space-between;
+  padding-right: 25%;
+}
+
+.article-type {
+  color: #1e3a8a;
+  font-family: "Montserrat";
+  font-size: 18px;
+}
+
+.article-author {
+  color: #666666;
+  font-family: "Open Sans";
+}
+
+.article-age {
+  color: #999999;
+  font-family: "Arial";
+}
