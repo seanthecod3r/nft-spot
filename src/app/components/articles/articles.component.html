@@ -1,1 +1,4 @@
-<p>articles works!</p>
+<div *ngFor="let article of articles" class="articles-container">
+  <app-article-item [article]="article"></app-article-item>
+  <div class="line"></div>
+</div>
