@@ -35,6 +35,56 @@
       "name": "test-nft-6",
       "image_path": "test-img-path-6",
       "description": "description for test-nft-6"
+    },
+    {
+      "id": 5,
+      "name": "test-nft-5",
+      "image_path": "test-img-path-5",
+      "description": "description for test-nft-5"
+    },
+    {
+      "id": 6,
+      "name": "test-nft-6",
+      "image_path": "test-img-path-6",
+      "description": "description for test-nft-6"
+    }
+  ],
+  "Articles": [
+    {
+      "id": 1,
+      "type": "News",
+      "title": "New NFTs are blowing up, and you need to see what you can get",
+      "author": "Author name"
+    },
+    {
+      "id": 2,
+      "type": "Gaming",
+      "title": "Check out this new digital NFT asset in League of Legends",
+      "author": "Author name"
+    },
+    {
+      "id": 3,
+      "type": "Art",
+      "title": "Artist creates one of the best NFT collections ever seen",
+      "author": "Author name"
+    },
+    {
+      "id": 4,
+      "type": "Collectibles",
+      "title": "These one of a kind NFT collectibles are something you absolutely NEED",
+      "author": "Author name"
+    },
+    {
+      "id": 5,
+      "type": "Technology",
+      "title": "New blockchain technology is proving a must for NFTs",
+      "author": "Author name"
+    },
+    {
+      "id": 6,
+      "type": "News",
+      "title": "A new company is emerging in the NFT space",
+      "author": "Author name"
     }
   ]
 }
