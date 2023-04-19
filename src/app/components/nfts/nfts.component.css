@@ -1,13 +1,4 @@
-.container {
-  display: flex;
-  flex-direction: row;
-}
-
-.nft-container {
-  width: 33.33%;
-  padding-top: 50px;
-}
-
-.content-container {
-  flex-grow: 1;
+.images-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
