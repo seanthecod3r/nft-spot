@@ -1,5 +1,5 @@
 .main-content-area {
-  padding: 0 50px 0 50px;
+  padding: 0 10%;
   background-color: #d3d3d3;
 }
 
@@ -7,10 +7,14 @@
   padding-top: 30px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 50px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
   .main-content-items {
     grid-template-columns: repeat(1, 1fr);
+  }
+  .main-content-area {
+    padding: 0 50px;
   }
 }
